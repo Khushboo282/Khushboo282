@@ -2,17 +2,6 @@
 
 Welcome to my GitHub profile! 🚀  
 
----
-
-### 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushboo282&show_icons=true&theme=radical)
-
----
-
-### 🔥 Most Used Languages  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushboo282&layout=compact&theme=radical)
 
 ---
 
