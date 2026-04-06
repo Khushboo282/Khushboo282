@@ -1,7 +1,7 @@
 # Hey, I'm Khushboo 👋
 
-I'm a ethusiast learner who learns by building things from scratch.
-Curious about how things work under the hood — from UI interactions to intelligent systems .
+I'm an enthusiast learner who learns by building things from scratch.
+Curious about how things work under the hood — from UI interactions to intelligent systems.
 Currently exploring the intersection of web development and AI/ML.
 
 ---
@@ -11,11 +11,14 @@ Currently exploring the intersection of web development and AI/ML.
 - Exploring AI/ML — especially how it can solve real-world problems
 - Contributed to open source (GSSOC'25)
 
-
 ---
 
 ### 🛠️ What I work with
-HTML · CSS · JavaScript · Python · Java
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ---
 
@@ -27,7 +30,9 @@ HTML · CSS · JavaScript · Python · Java
 ---
 
 ### 📊 Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khushboo282&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khushboo282&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khushboo282&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khushboo282&theme=dracula)
+
+![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushboo282&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushboo282&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Khushboo282&theme=tokyonight&hide_border=true)
