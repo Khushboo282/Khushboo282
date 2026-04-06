@@ -31,8 +31,7 @@ Currently exploring the intersection of web development and AI/ML.
 
 ### 📊 Stats
 
-![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushboo282&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Khushboo's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Khushboo282&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushboo282&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushboo282&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Khushboo282&theme=tokyonight&hide_border=true)
